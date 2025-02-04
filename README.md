@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/Sabuj-Chowdhury/Sabuj-Chowdhury/refs/heads/main/github-header-image.jpg" />
 </div>
@@ -18,21 +20,24 @@
   - ⚡ In my free time, I love to hang out with my friends and family
 </p>
 
-### 🔥 My GitHub Stats
+###
+
+<h3 align="center">🔥 My Stats :</h3>
+
+###
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="180" src="https://streak-stats.demolab.com?user=Sabuj-Chowdhury&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=Sabuj-Chowdhury">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sabuj-Chowdhury&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">
+    <img alt="Sabuj-Chowdhury's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sabuj-Chowdhury?cardType=level&theme=github-dark&preferLogin=false" />
   </a>
 </div>
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabuj-Chowdhury&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
+###
 
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-flame-zeta.vercel.app?user=Sabuj-Chowdhury&theme=dark&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabuj-Chowdhury&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
 
 ###
@@ -86,5 +91,4 @@
 </div>
 
 ###
-
 
