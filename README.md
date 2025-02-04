@@ -19,12 +19,13 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">🔥  My Stats :</h3>
 
 ###
+<div algin="center"><  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="Sabuj-Chowdhury's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sabuj-Chowdhury?cardType=level&theme=github-dark&preferLogin=false" />  </a>/div>
 
 <div align="center">
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="Sabuj-Chowdhury's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sabuj-Chowdhury?cardType=level&theme=github-dark&preferLogin=false" />  </a>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabuj-Chowdhury&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
