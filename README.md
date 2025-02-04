@@ -22,7 +22,7 @@
 <h3 align="center">🔥  My Stats :</h3>
 
 ###
-<div algin="center"><  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="Sabuj-Chowdhury's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sabuj-Chowdhury?cardType=level&theme=github-dark&preferLogin=false" />  </a>/div>
+<div algin="center"> <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="Sabuj-Chowdhury's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sabuj-Chowdhury?cardType=level&theme=github-dark&preferLogin=false" />  </a></div>
 
 <div align="center">
  
