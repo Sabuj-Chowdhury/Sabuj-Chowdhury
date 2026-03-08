@@ -1,12 +1,10 @@
-
-
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/Sabuj-Chowdhury/Sabuj-Chowdhury/refs/heads/main/github-header-image.jpg" />
 </div>
 
 ###
 
-<h2 align="center">Hi 👋! I'm a tech enthusiast from Chattogram, Bangladesh.</h2>
+<h2 align="center">Hi 👋! I'm Sabuj Chowdhury, a Software Engineer from Bangladesh.</h2>
 
 ###
 
@@ -15,9 +13,11 @@
 ###
 
 <p align="center">
-  - 🔭 I’m a computer science student at Burdwan University<br>
-  - 📚 I'm currently learning NextJS, TypeScript, Redux<br>
-  - ⚡ In my free time, I love to hang out with my friends and family
+  - 💼 Currently working as a <b>Trainee Software Engineer at Betopia Limited</b><br>
+  - 🎓 B.Sc (Hons.) in Computer Science from <b>University of Burdwan, India</b><br>
+  - 🏅 Graduated under the <b>ICCR Scholarship</b>, a prestigious fully funded scholarship offered by the Ministry of External Affairs, India<br>
+  - 🤖 Currently learning <b>Machine Learning</b> and <b>PHP Laravel Backend Development</b><br>
+  - ⚡ Interested in building scalable backend systems and exploring AI/ML technologies
 </p>
 
 ###
@@ -35,17 +35,16 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-flame-zeta.vercel.app?user=Sabuj-Chowdhury&theme=dark&hide_longest_streak=true" alt="GitHub Streak" /></a>
-  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-flame-zeta.vercel.app?user=Sabuj-Chowdhury&theme=dark&hide_longest_streak=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabuj-Chowdhury&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabuj-Chowdhury&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-
-
 
 ###
 
@@ -63,6 +62,12 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
@@ -87,15 +92,14 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sabuj-chowdhury" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:sabujchowdhury00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.facebook.com/sc2706r/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
 ###
-
