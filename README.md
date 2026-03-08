@@ -63,7 +63,7 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/sabuj-chowdhury">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
