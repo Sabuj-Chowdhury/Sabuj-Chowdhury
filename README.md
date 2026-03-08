@@ -2,23 +2,30 @@
   <img height="200" src="https://raw.githubusercontent.com/Sabuj-Chowdhury/Sabuj-Chowdhury/refs/heads/main/github-header-image.jpg" />
 </div>
 
-###
-
-<h2 align="center">Hi 👋! I'm Sabuj Chowdhury, a Software Engineer from Bangladesh.</h2>
-
-###
-
-<h3 align="center">👩‍💻 About Me</h3>
-
-###
+<h1 align="center">Sabuj Chowdhury</h1>
 
 <p align="center">
-  - 💼 Currently working as a <b>Trainee Software Engineer at Betopia Limited</b><br>
-  - 🎓 B.Sc (Hons.) in Computer Science from <b>University of Burdwan, India</b><br>
-  - 🏅 Graduated under the <b>ICCR Scholarship</b>, a prestigious fully funded scholarship offered by the Ministry of External Affairs, India<br>
-  - 🤖 Currently learning <b>Machine Learning</b> and <b>PHP Laravel Backend Development</b><br>
-  - ⚡ Interested in building scalable backend systems and exploring AI/ML technologies
+Trainee Software Engineer • Backend Enthusiast • Machine Learning Learner
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💼 Currently working as a **Trainee Software Engineer at Betopia Limited**
+- 🎓 Graduated with **B.Sc (Hons.) in Computer Science** from **University of Burdwan, India**
+- 🏅 Studied under the **ICCR Scholarship**, a fully funded scholarship by the **Ministry of External Affairs, India**
+- 🚀 Currently focusing on **Machine Learning** and **Backend Development with Laravel**
+- 💡 Interested in **building scalable systems, solving real-world problems, and exploring AI**
+
+---
+
+### 📚 Currently Learning
+
+- Machine Learning fundamentals
+- Python for AI/ML
+- PHP & Laravel Backend Development
+- System design and backend architecture
 
 ###
 
