@@ -21,8 +21,8 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 
 ## 🎯 Current Focus
 
-- Learning **Machine Learning**
-- Building **Laravel Backend Applications**
+- **Machine Learning**
+- **Laravel Backend Applications**
 - Strengthening **System Design and Backend Architecture**
 
 ---
@@ -31,7 +31,7 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel,javascript,react,nodejs,express,mongodb,java,git,vscode,html,css,tailwind,nextjs" />
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,express,prisma,mongodb,postgres,python,php,laravel,java,git,vscode,html,css,tailwind" />
 
 </div>
 
