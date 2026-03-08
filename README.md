@@ -42,13 +42,15 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 <div align="center">
 
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sabuj-Chowdhury?cardType=level&theme=github-dark&preferLogin=false" />
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sabuj-Chowdhury&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
 
 <!-- <img src="https://github-readme-streak-stats-flame-zeta.vercel.app?user=Sabuj-Chowdhury&theme=dark&hide_longest_streak=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabuj-Chowdhury&layout=compact&theme=dracula" /> -->
 
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sabuj-Chowdhury&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
