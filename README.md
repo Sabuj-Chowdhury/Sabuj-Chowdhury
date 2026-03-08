@@ -5,108 +5,66 @@
 <h1 align="center">Sabuj Chowdhury</h1>
 
 <p align="center">
-Trainee Software Engineer • Backend Enthusiast • Machine Learning Learner
+Trainee Software Engineer • Backend Developer • Machine Learning Learner
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 Currently working as a **Trainee Software Engineer at Betopia Limited**
-- 🎓 Graduated with **B.Sc (Hons.) in Computer Science** from **University of Burdwan, India**
-- 🏅 Studied under the **ICCR Scholarship**, a fully funded scholarship by the **Ministry of External Affairs, India**
-- 🚀 Currently focusing on **Machine Learning** and **Backend Development with Laravel**
-- 💡 Interested in **building scalable systems, solving real-world problems, and exploring AI**
+- 💼 Trainee Software Engineer at **Betopia Limited**
+- 🎓 **B.Sc (Hons.) in Computer Science** — University of Burdwan, India
+- 🏅 **ICCR Scholar** (Fully funded scholarship by the Ministry of External Affairs, India)
+- 🚀 Interested in **Backend Systems, Machine Learning, and Real-World Problem Solving**
 
 ---
 
-### 📚 Currently Learning
+## 🎯 Current Focus
 
-- Machine Learning fundamentals
-- Python for AI/ML
-- PHP & Laravel Backend Development
-- System design and backend architecture
+- Learning **Machine Learning**
+- Building **Laravel Backend Applications**
+- Strengthening **System Design and Backend Architecture**
 
-###
+---
 
-<h3 align="center">🔥 My Stats :</h3>
-
-###
+## 🛠 Tech Stack
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">
-    <img alt="Sabuj-Chowdhury's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sabuj-Chowdhury?cardType=level&theme=github-dark&preferLogin=false" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,php,laravel,javascript,react,nodejs,express,mongodb,java,git,vscode,html,css,tailwind,nextjs" />
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-flame-zeta.vercel.app?user=Sabuj-Chowdhury&theme=dark&hide_longest_streak=true" alt="GitHub Streak" />
-  </a>
+
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sabuj-Chowdhury?cardType=level&theme=github-dark&preferLogin=false" />
+
+<img src="https://github-readme-streak-stats-flame-zeta.vercel.app?user=Sabuj-Chowdhury&theme=dark&hide_longest_streak=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabuj-Chowdhury&layout=compact&theme=dracula" />
+
 </div>
 
-###
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabuj-Chowdhury&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+<a href="https://www.linkedin.com/in/sabuj-chowdhury">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sabujchowdhury00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/sc2706r/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </div>
-
-###
-
-<h3 align="center">🛠 Languages and Tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-</div>
-
-###
-
-<h3 align="center">🌐 Connect with me</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sabuj-chowdhury" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:sabujchowdhury00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.facebook.com/sc2706r/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
-
-###
