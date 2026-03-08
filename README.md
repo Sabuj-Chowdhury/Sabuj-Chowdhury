@@ -67,4 +67,6 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabuj-Chowdhury&show_icons=true&theme=radical)
+
 </div>
