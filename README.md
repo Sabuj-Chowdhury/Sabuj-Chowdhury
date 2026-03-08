@@ -45,7 +45,7 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 
 <img src="https://github-readme-streak-stats-flame-zeta.vercel.app?user=Sabuj-Chowdhury&theme=dark&hide_longest_streak=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabuj-Chowdhury&layout=compact&theme=dracula" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabuj-Chowdhury&layout=compact&theme=dracula" /> -->
 
 </div>
 
