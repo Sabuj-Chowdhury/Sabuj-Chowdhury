@@ -50,7 +50,7 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 </td>
 <td>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sabuj-Chowdhury&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sabuj-Chowdhury&theme=dark" alt="GitHub Streak" /></a>
 
 </td>
 </tr>
