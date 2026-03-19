@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Sabuj-Chowdhury/Sabuj-Chowdhury/refs/heads/main/github-header-image.png" />
+  <img width="100%" src="https://raw.githubusercontent.com/Sabuj-Chowdhury/Sabuj-Chowdhury/refs/heads/main/github-header-image.png" />
 </div>
 
 <h1 align="center">Sabuj Chowdhury</h1>
