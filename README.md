@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Sabuj-Chowdhury/Sabuj-Chowdhury/refs/heads/main/github-header-image.jpg" />
+  <img height="200" src="https://raw.githubusercontent.com/Sabuj-Chowdhury/Sabuj-Chowdhury/refs/heads/main/github-header-image.png" />
 </div>
 
 <h1 align="center">Sabuj Chowdhury</h1>
@@ -37,9 +37,6 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 
 ---
 
-
-
-
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -60,8 +57,7 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sabuj-Chowdhury&theme=github_dark" /> 
-
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sabuj-Chowdhury&theme=github_dark" />
 
 </td>
 </tr>
@@ -80,8 +76,6 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 </tr>
 </table> -->
 
-
-
 ---
 
 ## 🌐 Connect With Me
@@ -99,7 +93,5 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 <a href="https://www.facebook.com/sc2706r/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-
-
 
 </div>
