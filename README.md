@@ -54,11 +54,19 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 </tr>
 </table> -->
 
+<table align="center">
+
+<tr>
+<td>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Sabuj-Chowdhury&show_icons=true&theme=github_dark)
+</td>
+<td>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Sabuj-Chowdhury&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sabuj-Chowdhury&layout=compact&theme=github_dark)
 
-
+</td>
+</tr>
+</table>
 
 
 ---
