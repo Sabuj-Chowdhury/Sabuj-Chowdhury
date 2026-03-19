@@ -41,7 +41,7 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 
 ## 📊 GitHub Stats
 
-<table align="center">
+<!-- <table align="center">
 <tr>
 <td>
 
@@ -52,7 +52,11 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sabuj-Chowdhury&theme=merko" alt="GitHub Streak" /></a>
 </td>
 </tr>
-</table>
+</table> -->
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Sabuj-Chowdhury&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Sabuj-Chowdhury&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sabuj-Chowdhury&layout=compact&theme=github_dark)
 
 
 
