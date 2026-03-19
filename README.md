@@ -59,7 +59,8 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sabuj-Chowdhury&theme=github_dark" />
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sabuj-Chowdhury&theme=github_dark" /> -->
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=radical&fontFamily=&preferLogin=true">    <img  alt="Sabuj-Chowdhury's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sabuj-Chowdhury?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=true" />  </a>
 
 </td>
 </tr>
@@ -78,22 +79,6 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 </tr>
 </table> -->
 
-<!-- <table align="center">
-
-<tr>
-<td>
-  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Sabuj-Chowdhury&show_icons=true&theme=github_dark)
-
-</td>
-<td>
-  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Sabuj-Chowdhury&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sabuj-Chowdhury&layout=compact&theme=github_dark)
-
-</td>
-</tr>
-</table> -->
 
 
 ---
