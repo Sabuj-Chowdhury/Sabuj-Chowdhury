@@ -22,7 +22,7 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 ## 🎯 Current Focus
 
 - **Machine Learning**
-- **Laravel Backend Applications**
+- **GO Backend**
 - Strengthening **System Design and Backend Architecture**
 
 ---
