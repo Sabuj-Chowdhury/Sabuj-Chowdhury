@@ -12,10 +12,10 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 
 ## 👨‍💻 About Me
 
-- 💼 Trainee Software Engineer at **Betopia Limited**
 - 🎓 **B.Sc (Hons.) in Computer Science** — University of Burdwan, India
 - 🏅 **ICCR Scholar** (Fully funded scholarship by the Ministry of External Affairs, India)
 - 🚀 Interested in **Backend Systems, Machine Learning, and Real-World Problem Solving**
+- 🧠 Currently learning Go (Golang), Next.js, and AI-driven technologies
 
 ---
 
@@ -66,7 +66,7 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 <!-- <table align="center">
 <tr>
 <td>
-
+- 💼 Trainee Software Engineer at **Betopia Limited**
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sabuj-Chowdhury?cardType=level&theme=github-dark&preferLogin=false" />
 
 </td>
