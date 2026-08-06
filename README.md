@@ -12,10 +12,13 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 
 ## 👨‍💻 About Me
 
+- 💼 **Software Engineer at Raptas AI**
 - 🎓 **B.Sc (Hons.) in Computer Science** — University of Burdwan, India
 - 🏅 **ICCR Scholar** (Fully funded scholarship by the Ministry of External Affairs, India)
-- 🚀 Interested in **Backend Systems, Machine Learning, and Real-World Problem Solving**
-- 🧠 Currently learning Go (Golang), Next.js, and AI-driven technologies
+- 🔐 Contributing to **cybersecurity solutions for fintech companies**
+- 🚀 Passionate about **Backend Engineering, System Design, APIs, and Scalable Software**
+- 🤖 Interested in **AI, Cybersecurity, and Intelligent Systems**
+- 🧠 Currently exploring **Go (Golang), Distributed Systems, and AI-driven Technologies**
 
 ---
 
@@ -31,7 +34,7 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,express,prisma,mongodb,postgres,python,php,laravel,java,git,vscode,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=go,javascript,react,nextjs,nodejs,express,prisma,mongodb,postgres,python,php,laravel,java,git,vscode,html,css,tailwind" />
 
 </div>
 
