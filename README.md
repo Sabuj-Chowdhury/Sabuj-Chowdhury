@@ -5,7 +5,7 @@
 <h1 align="center">Sabuj Chowdhury</h1>
 
 <p align="center">
-Trainee Software Engineer • Backend Developer • Machine Learning Learner
+Software Engineer • Backend Developer • Machine Learning Learner
 </p>
 
 ---
@@ -17,8 +17,6 @@ Trainee Software Engineer • Backend Developer • Machine Learning Learner
 - 🏅 **ICCR Scholar** (Fully funded scholarship by the Ministry of External Affairs, India)
 - 🔐 Contributing to **cybersecurity solutions for fintech companies**
 - 🚀 Passionate about **Backend Engineering, System Design, APIs, and Scalable Software**
-- 🤖 Interested in **AI, Cybersecurity, and Intelligent Systems**
-- 🧠 Currently exploring **Go (Golang), Distributed Systems, and AI-driven Technologies**
 
 ---
 
